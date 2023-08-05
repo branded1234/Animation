@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-image: url(Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+/* Images */
+
+.a{
+    width: 22%;
+}
+.b{
+    width: 11%;
+}
+.c{
+    width: 4%;
+}
